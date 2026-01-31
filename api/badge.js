@@ -28,7 +28,7 @@ export default async function handler(req, res) {
   }
 
   const platformData = platforms[platform.toLowerCase()];
-  const count = await safe(platformData.fn);
+  const count = await safe(platformData.fn, platformData.name);
   const timestamp = new Date().toLocaleString();
 
   const svg = `

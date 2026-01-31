@@ -1,20 +1,25 @@
 import fetch from "node-fetch";
-import cheerio from "cheerio";
 
 export async function getAtCoder(username) {
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), 8000);
   
-  const html = await fetch(`https://atcoder.jp/users/${username}`, {
-    signal: controller.signal,
-    headers: { 'User-Agent': 'Mozilla/5.0 (compatible)' }
-  }).then(r => {
-    clearTimeout(timeout);
-    if (!r.ok) throw new Error(`AtCoder responded with ${r.status}`);
-    return r.text();
-  });
-
-  const $ = cheerio.load(html);
-  const val = $("th:contains('Accepted')").next().text();
-  return parseInt(val) || 0;
+  // Use AtCoder Problems API which provides submission data
+  const res = await fetch(
+    `https://kenkoooo.com/atcoder/atcoder-api/v3/user/ac_count?user=${username}`,
+    {
+      signal: controller.signal,
+      headers: { 
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'Accept': 'application/json'
+      }
+    }
+  );
+  
+  clearTimeout(timeout);
+  
+  if (!res.ok) throw new Error(`AtCoder API responded with ${res.status}`);
+  
+  const count = await res.json();
+  return typeof count === 'number' ? count : 0;
 }

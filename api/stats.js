@@ -25,7 +25,7 @@ export default async function handler(req, res) {
 
   const results = await Promise.all(
     platforms.map(async (platform) => {
-      const count = await safe(platform.fn);
+      const count = await safe(platform.fn, platform.name);
       total += count;
       return {
         name: platform.name,

@@ -23,13 +23,13 @@ export default async function handler(req, res) {
   };
 
   if (platform && platforms[platform.toLowerCase()]) {
-    const count = await safe(platforms[platform.toLowerCase()]);
+    const count = await safe(platforms[platform.toLowerCase()], platform);
     res.json({ platform, count, timestamp: new Date().toISOString() });
   } else {
     // Return all platforms
     const results = {};
     for (const [name, fn] of Object.entries(platforms)) {
-      results[name] = await safe(fn);
+      results[name] = await safe(fn, name);
     }
     results.total = Object.values(results).reduce((a, b) => a + b, 0);
     results.timestamp = new Date().toISOString();

@@ -7,6 +7,7 @@ export async function getLeetCode(username) {
         matchedUser(username: $username) {
           submitStatsGlobal {
             acSubmissionNum {
+              difficulty
               count
             }
           }
@@ -23,7 +24,10 @@ export async function getLeetCode(username) {
     method: "POST",
     headers: { 
       "Content-Type": "application/json",
-      "User-Agent": "Mozilla/5.0 (compatible)"
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Accept": "application/json",
+      "Origin": "https://leetcode.com",
+      "Referer": "https://leetcode.com/"
     },
     body: JSON.stringify(body),
     signal: controller.signal
@@ -35,6 +39,11 @@ export async function getLeetCode(username) {
   const json = await res.json();
   if (!json.data?.matchedUser?.submitStatsGlobal?.acSubmissionNum) return 0;
 
-  return json.data.matchedUser.submitStatsGlobal.acSubmissionNum
-    .reduce((a, b) => a + b.count, 0);
+  // The first element with difficulty "All" contains total count
+  const stats = json.data.matchedUser.submitStatsGlobal.acSubmissionNum;
+  const allStats = stats.find(s => s.difficulty === "All");
+  if (allStats) return allStats.count;
+  
+  // Fallback: sum all difficulties
+  return stats.reduce((a, b) => a + b.count, 0);
 }

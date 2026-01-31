@@ -26,7 +26,7 @@ export default async function handler(req, res) {
 
   const rows = await Promise.all(
     platforms.map(async ([name, url, fn], i) => {
-      const value = await safe(fn);
+      const value = await safe(fn, name);
       total += value;
 
       const x = i % 2 === 0 ? 24 : 220;
@@ -39,11 +39,7 @@ export default async function handler(req, res) {
     ${icon.path}
   </g>
   <text x="${x + 28}" y="${y}">${name}</text>
-  <text x="${x + 160}" y="${y}" text-anchor="end">
-    <tspan>0
-      <animate attributeName="textContent" from="0" to="${value}" dur="1.2s" fill="freeze"/>
-    </tspan>
-  </text>
+  <text x="${x + 160}" y="${y}" text-anchor="end">${value}</text>
 </a>`;
     })
   );
