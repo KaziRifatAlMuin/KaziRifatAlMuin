@@ -24,13 +24,32 @@ Undergrad Student in **Computer Science and Engineering** at **Khulna University
 
 ## Competitive Programming Statistics
 
+<div align="center">
+
+### Platform Statistics (Live Data)
+
+<table>
+<tr>
+<td><img src="https://stat-rifatalmuin.vercel.app/api/badge?platform=codeforces" alt="Codeforces Stats"/></td>
+<td><img src="https://stat-rifatalmuin.vercel.app/api/badge?platform=leetcode" alt="LeetCode Stats"/></td>
+<td><img src="https://stat-rifatalmuin.vercel.app/api/badge?platform=atcoder" alt="AtCoder Stats"/></td>
+</tr>
+<tr>
+<td><img src="https://stat-rifatalmuin.vercel.app/api/badge?platform=codechef" alt="CodeChef Stats"/></td>
+<td><img src="https://stat-rifatalmuin.vercel.app/api/badge?platform=lightoj" alt="LightOJ Stats"/></td>
+<td><img src="https://stat-rifatalmuin.vercel.app/api/badge?platform=toph" alt="Toph Stats"/></td>
+</tr>
+</table>
+
+</div>
+
 <div align="left">
 
 <table width="100%">
 <thead>
 <tr>
-<th width="55%" align="left"><h3>Online Judges</h3></th>
-<th width="45%" align="left"><h3>Problems Solved</h3></th>
+<th width="55%" align="left"><h3>Quick Links</h3></th>
+<th width="45%" align="left"><h3>Profile Links</h3></th>
 </tr>
 </thead>
 <tbody>
@@ -40,7 +59,7 @@ Undergrad Student in **Computer Science and Engineering** at **Khulna University
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=445f9d" alt="Codeforces"/>
 </a>
 </td>
-<td align="left"><strong><code>1450+</code></strong></td>
+<td align="left"><strong><a href="https://codeforces.com/profile/RifatALmuiN">🔗 View Profile</a></strong></td>
 </tr>
 <tr>
 <td align="left">
@@ -48,31 +67,15 @@ Undergrad Student in **Computer Science and Engineering** at **Khulna University
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=d16c00" alt="LeetCode"/>
 </a>
 </td>
-<td align="left"><strong><code>0</code></strong></td>
+<td align="left"><strong><a href="https://www.leetcode.com/RifatALmuiN">🔗 View Profile</a></strong></td>
 </tr>
 <tr>
 <td align="left">
-<a href="https://vjudge.net/user/rifat_al_muin" target="_blank">
-<img src="https://img.shields.io/badge/Vjudge-FCD34D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHRleHQgeD0iMTIiIHk9IjE2IiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9ImJsYWNrIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5WPC90ZXh0Pgo8L3N2Zz4K&logoColor=black&labelColor=d97706" alt="Vjudge"/>
+<a href="https://atcoder.jp/users/RifatAlMuin" target="_blank">
+<img src="https://img.shields.io/badge/AtCoder-2F7FFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHRleHQgeD0iMTIiIHk9IjE2IiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5BPC90ZXh0Pgo8L3N2Zz4K&logoColor=white&labelColor=1f5fcc" alt="AtCoder"/>
 </a>
 </td>
-<td align="left"><strong><code>380+</code></strong></td>
-</tr>
-<tr>
-<td align="left">
-<a href="https://toph.co/u/rifat_246" target="_blank">
-<img src="https://img.shields.io/badge/Toph.co-1F8ACB?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHRleHQgeD0iMTIiIHk9IjE2IiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5UPC90ZXh0Pgo8L3N2Zz4K&logoColor=white&labelColor=145a8c" alt="Toph.co"/>
-</a>
-</td>
-<td align="left"><strong><code>90+</code></strong></td>
-</tr>
-<tr>
-<td align="left">
-<a href="https://lightoj.com/user/rifatalmuin" target="_blank">
-<img src="https://img.shields.io/badge/LightOJ-8B5CF6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHRleHQgeD0iMTIiIHk9IjE2IiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5MPC90ZXh0Pgo8L3N2Zz4K&logoColor=white&labelColor=6d28d9" alt="LightOJ"/>
-</a>
-</td>
-<td align="left"><strong><code>50+</code></strong></td>
+<td align="left"><strong><a href="https://atcoder.jp/users/RifatAlMuin">🔗 View Profile</a></strong></td>
 </tr>
 <tr>
 <td align="left">
@@ -80,7 +83,23 @@ Undergrad Student in **Computer Science and Engineering** at **Khulna University
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=3d2f26" alt="CodeChef"/>
 </a>
 </td>
-<td align="left"><strong><code>40+</code></strong></td>
+<td align="left"><strong><a href="https://www.codechef.com/users/rifat_al_muin">🔗 View Profile</a></strong></td>
+</tr>
+<tr>
+<td align="left">
+<a href="https://lightoj.com/user/rifatalmuin" target="_blank">
+<img src="https://img.shields.io/badge/LightOJ-8B5CF6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHRleHQgeD0iMTIiIHk9IjE2IiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5MPC90ZXh0Pgo8L3N2Zz4K&logoColor=white&labelColor=6d28d9" alt="LightOJ"/>
+</a>
+</td>
+<td align="left"><strong><a href="https://lightoj.com/user/rifatalmuin">🔗 View Profile</a></strong></td>
+</tr>
+<tr>
+<td align="left">
+<a href="https://toph.co/u/rifat_246" target="_blank">
+<img src="https://img.shields.io/badge/Toph.co-1F8ACB?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHRleHQgeD0iMTIiIHk9IjE2IiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5UPC90ZXh0Pgo8L3N2Zz4K&logoColor=white&labelColor=145a8c" alt="Toph.co"/>
+</a>
+</td>
+<td align="left"><strong><a href="https://toph.co/u/rifat_246">🔗 View Profile</a></strong></td>
 </tr>
 </tbody>
 </table>

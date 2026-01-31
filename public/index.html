@@ -270,7 +270,10 @@
     <div class="container">
         <header class="header">
             <h1>🏆 RifatAlMuin</h1>
-            <p>Competitive Programming Journey • Live Statistics & Achievements</p>
+            <p>Competitive Programming Journey • Live Statistics & Real-time Updates</p>
+            <p style="font-size: 0.9rem; color: var(--secondary); margin-top: 0.5rem;">
+                🔄 Updates every minute • Last refresh: <span id="lastRefresh">Loading...</span>
+            </p>
         </header>
 
         <div class="total-stats">
@@ -322,9 +325,11 @@
                 <div class="card-title">
                     ⚡ Real-time Data
                 </div>
-                <p>All statistics are fetched live from each platform's API and updated every 6 hours. Click on any platform above to visit your profile!</p>
+                <p>All statistics are fetched live from each platform's API and updated every minute for maximum accuracy.</p>
                 <p style="margin-top: 1rem; font-size: 0.9rem; color: var(--secondary);">
-                    Last updated: <span id="lastUpdated">Loading...</span>
+                    Last updated: <span id="lastUpdated">Loading...</span><br>
+                    Next refresh: <span id="nextRefresh">60s</span><br>
+                    Auto-refresh: <span style="color: var(--success);">✓ Active</span>
                 </p>
             </div>
         </div>
@@ -332,7 +337,7 @@
         <footer class="footer">
             <p>Built with ❤️ using Vercel Functions • Data sourced from official APIs</p>
             <p style="margin-top: 0.5rem; font-size: 0.9rem;">
-                🔄 Auto-refresh every 6 hours • 🌙 Dark mode supported
+                🔄 Auto-refresh every minute • 🌙 Dark mode supported • ⚡ Real-time data
             </p>
         </footer>
     </div>
@@ -451,12 +456,15 @@
                 // Create chart
                 createChart(platformData);
                 
-                // Update timestamp
+                // Update timestamps
                 if (lastUpdated) {
                     document.getElementById('lastUpdated').textContent = new Date(lastUpdated).toLocaleString();
                 } else {
                     document.getElementById('lastUpdated').textContent = new Date().toLocaleString();
                 }
+                
+                // Update last refresh time
+                document.getElementById('lastRefresh').textContent = new Date().toLocaleTimeString();
                 
                 // Refresh SVG image with cache bust
                 const img = document.getElementById('statsImage');
@@ -475,12 +483,22 @@
             }
         }
 
-        // Auto-refresh every 6 hours
-        setInterval(init, 6 * 60 * 60 * 1000);
+                    // Auto-refresh every minute for real-time updates
+                    setInterval(init, 60 * 1000); // 1 minute
         
-        // Initial load
-        init();
-
+                // Countdown timer for next refresh
+                let countdown = 60;
+                setInterval(() => {
+                    countdown--;
+                    if (countdown <= 0) {
+                        countdown = 60;
+                    }
+                    const nextRefreshElement = document.getElementById('nextRefresh');
+                    if (nextRefreshElement) {
+                        nextRefreshElement.textContent = countdown + 's';
+                    }
+                }, 1000);
+            
         // Handle image loading
         document.getElementById('statsImage').addEventListener('load', () => {
             console.log('Stats image loaded successfully');

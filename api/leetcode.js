@@ -16,14 +16,24 @@ export async function getLeetCode(username) {
     variables: { username }
   };
 
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 8000);
+
   const res = await fetch("https://leetcode.com/graphql", {
     method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify(body)
+    headers: { 
+      "Content-Type": "application/json",
+      "User-Agent": "Mozilla/5.0 (compatible)"
+    },
+    body: JSON.stringify(body),
+    signal: controller.signal
   });
+  
+  clearTimeout(timeout);
+  if (!res.ok) throw new Error(`LeetCode responded with ${res.status}`);
 
   const json = await res.json();
-  if (!json.data?.matchedUser) return 0;
+  if (!json.data?.matchedUser?.submitStatsGlobal?.acSubmissionNum) return 0;
 
   return json.data.matchedUser.submitStatsGlobal.acSubmissionNum
     .reduce((a, b) => a + b.count, 0);

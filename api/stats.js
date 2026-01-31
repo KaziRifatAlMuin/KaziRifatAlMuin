@@ -8,7 +8,7 @@ import { safe } from "./utils.js";
 
 export default async function handler(req, res) {
   res.setHeader("Content-Type", "application/json");
-  res.setHeader("Cache-Control", "s-maxage=21600");
+  res.setHeader("Cache-Control", "s-maxage=60, stale-while-revalidate=30");
   res.setHeader("Access-Control-Allow-Origin", "*");
 
   const platforms = [
