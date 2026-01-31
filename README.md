@@ -26,11 +26,11 @@ Undergrad Student in **Computer Science and Engineering** at **Khulna University
 
 <div align="left">
 
-<table width="80%">
+<table width="100%">
 <thead>
 <tr>
-<th width="60%" align="left"><h3>Online Judge Platform</h3></th>
-<th width="40%" align="left"><h3>Problems Solved</h3></th>
+<th width="55%" align="left"><h3>Online Judges</h3></th>
+<th width="45%" align="left"><h3>Problems Solved</h3></th>
 </tr>
 </thead>
 <tbody>
@@ -87,10 +87,6 @@ Undergrad Student in **Computer Science and Engineering** at **Khulna University
 
 </div>
 
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=kazirifatalmuin&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
 ## Technical Expertise
 
 ### Programming Languages
@@ -118,10 +114,9 @@ Undergrad Student in **Computer Science and Engineering** at **Khulna University
 
 </div>
 
-
 <div align="left">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazirifatalmuin&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
-  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazirifatalmuin&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
 </div>
-
