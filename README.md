@@ -116,7 +116,8 @@ Undergrad Student in **Computer Science and Engineering** at **Khulna University
 
 <div align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazirifatalmuin&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazirifatalmuin&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=1800"
     alt="Top Languages"
   />
 </div>
+
