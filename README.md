@@ -18,7 +18,7 @@ Experienced in **problem solving**, **data structures**, and **full-stack develo
 
 ---
 
-## Competitive Programming Statistics
+# Competitive Programming Statistics
 
 | Online Judges | Max Rating | Problems Solved |
 | --- | ---: | :---: |
@@ -34,7 +34,7 @@ Experienced in **problem solving**, **data structures**, and **full-stack develo
 
 ---
 
-## Achievements
+# Achievements
 
 | Contests | Rank | Team |
 | --- | ---: | :---: |
@@ -47,7 +47,7 @@ Experienced in **problem solving**, **data structures**, and **full-stack develo
 
 ---
 
-## Technical Expertise
+# Technical Expertise
 
 ### Programming Languages
 
