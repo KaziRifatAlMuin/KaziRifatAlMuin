@@ -110,6 +110,61 @@ Experienced in **problem solving**, **data structures**, and **full-stack develo
 
 </tbody>
 </table>
+<p align="left"><i>Note: Click the online judge name to view my online judge profile.</i></p>
+
+---
+
+# Achievements
+
+<table>
+<thead>
+<tr>
+<th align="left">Contests</th>
+<th align="center">Rank</th>
+<th align="center">Team</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td><a href="https://bapsoj.org/contests/icpc-dhaka-onsite-2025/standings">ICPC Asia Dhaka Regional 2025</a></td>
+<td align="center"><b>45</b><sup>th</sup></td>
+<td align="center">KUET_Anarosh</td>
+</tr>
+
+<tr>
+<td><a href="https://bapsoj.org/contests/icpc-dhaka-regional-site-2024/standings">ICPC Asia Dhaka Regional 2024</a></td>
+<td align="center"><b>38</b><sup>th</sup></td>
+<td align="center">KUET_TheFamily</td>
+</tr>
+
+<tr>
+<td><a href="https://toph.co/c/mtb-presents-aust-inter-university-2025/standings">AUST Inter University Programming Contest 2025</a></td>
+<td align="center"><b>26</b><sup>th</sup></td>
+<td align="center">KUET_Braindead</td>
+</tr>
+
+<tr>
+<td><a href="https://toph.co/c/uttara-university-inter-university-2025/standings">UU Inter University Programming Contest 2025</a></td>
+<td align="center"><b>34</b><sup>th</sup></td>
+<td align="center">KUET_Braindead</td>
+</tr>
+
+<tr>
+<td><a href="https://toph.co/c/duet-inter-university-iupc-2025/standings">DUET Inter University Programming Contest 2025</a></td>
+<td align="center"><b>42</b><sup>nd</sup></td>
+<td align="center">KUET_Braindead</td>
+</tr>
+
+<tr>
+<td><a href="https://toph.co/c/inter-university-buet-cse-fest-2024/standings">BUET Inter University Programming Contest 2024</a></td>
+<td align="center"><b>29</b><sup>th</sup></td>
+<td align="center">KUET_TheFamily</td>
+</tr>
+
+</tbody>
+</table>
 
 ---
 
