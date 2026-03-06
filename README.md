@@ -51,7 +51,7 @@ Experienced in **problem solving**, **data structures**, and **full-stack develo
 <tr>
 <td>
 
-[![AtCoder](https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHRleHQgeD0iMTIiIHk9IjE3IiBmb250LXNpemU9IjE4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSI+QTwvdGV4dD48L3N2Zz4=&logoColor=white)](https://atcoder.jp/users/RifatAlMuin)
+[![AtCoder](https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHRleHQgeD0iMTIiIHk9IjE3IiBmb250LXNpemU9IjE4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSI+QTwvdGV4dD48L3N2Zz4=&logoColor=white&labelColor=111111)](https://atcoder.jp/users/RifatAlMuin)
 
 </td>
 <td><b><code style="color:cyan">-</code></b></td>
@@ -81,7 +81,7 @@ Experienced in **problem solving**, **data structures**, and **full-stack develo
 <tr>
 <td>
 
-[![Toph](https://img.shields.io/badge/Toph-145a8c?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHRleHQgeD0iMTIiIHk9IjE3IiBmb250LXNpemU9IjE4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSI+VDwvdGV4dD48L3N2Zz4=&logoColor=white)](https://toph.co/u/rifat_246)
+[![Toph](https://img.shields.io/badge/Toph-145a8c?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHRleHQgeD0iMTIiIHk9IjE3IiBmb250LXNpemU9IjE4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSI+VDwvdGV4dD48L3N2Zz4=&logoColor=white&labelColor=0d3c60)](https://toph.co/u/rifat_246)
 
 </td>
 <td><b><code style="color:cyan">1292</code></b></td>
@@ -91,7 +91,7 @@ Experienced in **problem solving**, **data structures**, and **full-stack develo
 <tr>
 <td>
 
-[![LightOJ](https://img.shields.io/badge/LightOJ-6d28d9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHRleHQgeD0iMTIiIHk9IjE3IiBmb250LXNpemU9IjE4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSI+TDwvdGV4dD48L3N2Zz4=&logoColor=white)](https://lightoj.com/user/rifatalmuin)
+[![LightOJ](https://img.shields.io/badge/LightOJ-6d28d9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHRleHQgeD0iMTIiIHk9IjE3IiBmb250LXNpemU9IjE4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSI+TDwvdGV4dD48L3N2Zz4=&logoColor=white&labelColor=4c1d95)](https://lightoj.com/user/rifatalmuin)
 
 </td>
 <td><b><code style="color:cyan">-</code></b></td>
@@ -101,7 +101,7 @@ Experienced in **problem solving**, **data structures**, and **full-stack develo
 <tr>
 <td>
 
-[![Others](https://img.shields.io/badge/Others-d97706?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHRleHQgeD0iMTIiIHk9IjE3IiBmb250LXNpemU9IjE4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSI+TzwvdGV4dD48L3N2Zz4=&logoColor=white)](https://vjudge.net/user/rifat_al_muin)
+[![Others](https://img.shields.io/badge/Others-d97706?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHRleHQgeD0iMTIiIHk9IjE3IiBmb250LXNpemU9IjE4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSI+TzwvdGV4dD48L3N2Zz4=&logoColor=white&labelColor=92400e)](https://vjudge.net/user/rifat_al_muin)
 
 </td>
 <td><b><code style="color:cyan">-</code></b></td>
@@ -143,7 +143,7 @@ Experienced in **problem solving**, **data structures**, and **full-stack develo
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
 
 
-# Tools & Technologies
+## Tools & Technologies
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
